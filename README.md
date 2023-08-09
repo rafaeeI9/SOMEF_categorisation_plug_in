@@ -287,3 +287,6 @@ To see upcoming features, please have a look at our [open issues](https://github
 
 To run a classifier with an additional category or remove an existing one, a corresponding path entry in the config.json should be provided and the category type should be added/removed in the category variable in `cli.py`.
 
+
+!!! THIS IS A TESTING REPOSITORY FOR THE ALREADY EXISTING, WORKING AND SECURE PLUG-IN FOUND AT https://github.com/rafaeel9/SOMEF_categorisation_plug_in , DO NOT USE THIS !!!
+
